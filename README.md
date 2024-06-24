@@ -4,11 +4,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name](link)
+- 🔭 I’m currently working on [Abersoft](https://www.abersoft.co.id/)
 - 🌱 I’m currently learning **Next.js, Tailwind CSS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Full Stack Development, JavaScript**
-- 📫 How to reach me: [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [baynugroho963@gmail.com](mailto:baynugroho963@gmail.com)
 
 ## Skills
 
@@ -31,6 +31,9 @@
 
 ## Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://instagram.com/yourprofile)
+<p>
+  <a href="https://www.tiktok.com/@bayunugroho.dev"><img src="https://img.shields.io/badge/-Tiktok-black?style=flat&logo=tiktok" /></a>
+  <a href="https://github.com/bayunugrohoDev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://www.instagram.com/bayunugroho.dev"><img src="https://img.shields.io/badge/-Instagram-e12a72?style=flat&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/m-bayu-dwi-nugroho-ab105013a/"><img src="https://img.shields.io/badge/-LinkedIn-144679?style=flat&logo=linkedin" /></a>
+</p>
