@@ -55,9 +55,4 @@
 [![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bayunugroho.dev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bayunugrohoDev)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayunugrohoDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayunugrohoDev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
