@@ -5,7 +5,6 @@
 ## 👨‍💻 About Me
 
 - 💼 **Software Engineer** specializing in Frontend & Full-Stack Development.
-- 🔭 I’m currently working remotely as a Software Engineer at [Abersoft Technologies](https://www.abersoft.se/)
 - 🌐 Check out my latest work on my [Portfolio Website](https://bayunugroho.dev)
 - 🌱 I’m currently exploring **Advanced Frontend Architectures, Cross-Platform Mobile Apps, & AI Tools**
 - 💬 Ask me about **React, Next.js, React Native, and Full Stack Web Development**
